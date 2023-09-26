@@ -1,0 +1,95 @@
+.lblue{
+    background-color: #f0f2f5;
+}
+.height-80{
+    min-height: 85vh;    
+}
+
+.face{
+    text-decoration: #3b5998!important;
+}
+
+.dt {
+    /* font-weight: 700 rtl:600; */
+  }
+
+.text-underline{
+    width: 20vw;
+    height: 1px;
+    margin: auto;
+    background: lightgrey!important;
+}
+.cool{
+    background-color: rgb(15, 236, 15);
+}
+
+.cool:hover {
+    background-color:rgb(5, 158, 5);
+}
+
+.mtop{
+    margin-top: 13vh;
+    margin-left: 0vw;
+}
+.mmtop{
+    margin-top: 20vh;
+}
+.w85{
+    width: 30vw;
+}
+
+@media screen and (min-width: 768px) {
+    .mml{
+        margin-left: 25vw;
+        margin: auto;
+        margin-top: 1vw;
+        margin-bottom: 1vh;
+    }
+}
+
+.cl{
+    margin: auto;
+    width: 50%;
+    height: 0.1vh;
+    background-color: lightgray;
+}
+
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+    .wd {
+        /* padding: 0px 21% 0px 21%; */
+        padding-left: 28%;
+    }
+    .wbig{
+        width: 50vw;
+    }
+    .ctr{
+        padding-left: 16%;
+    }
+    .card_pad{
+        margin-top: -1vh;
+        padding-left: 30%;
+    }
+    .sll{
+        width: 28vw;
+    }
+    .sm{
+        width: 0vw;
+    }
+    .upp{
+        margin-top: -20vh;
+    }
+}
+.txt-sm{
+    width: 2vw;
+    font-size: 0.65rem;
+}
+.txt-parent{
+    margin-left: auto;
+    font-size: 0.6rem;
+    text-decoration: lightgrey;
+}
+.xx{
+    word-spacing: 10px;
+    margin-top: 1vh;
+}
